@@ -11254,12 +11254,7 @@
                     children:
                       "For your security, you must enter your password to continue.",
                   }),
-                  (0, c.jsx)("hr", {
-                    style: {
-                      borderTop: "1px solid #d0d0d0",
-                      marginTop: 20,
-                    },
-                  }),
+
                   (0, c.jsxs)("div", {
                     className: "",
                     children: [
@@ -11282,6 +11277,12 @@
                         color: "gray",
                       }),
                     ],
+                  }),
+                  (0, c.jsx)("hr", {
+                    style: {
+                      borderTop: "1px solid #d0d0d0",
+                      marginTop: 20,
+                    },
                   }),
                   (0, c.jsxs)("div", {
                     style: {
