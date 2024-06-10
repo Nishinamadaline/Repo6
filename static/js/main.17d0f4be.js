@@ -8929,7 +8929,8 @@
               left: 0,
               right: 0,
               bottom: 0,
-              backgroundColor: "rgb(245, 255, 250)",
+              background:
+                "linear-gradient(120deg,#daedff -6.08%,#dfe7ff 34.89%,#f1f5fb 98.82%)",
             },
             content: {
               position: "absolute",
@@ -10790,7 +10791,7 @@
           return (0, c.jsxs)("div", {
             style: {
               background:
-                "linear-gradient(86.37deg,#daedff -6.08%,#dfe7ff 34.89%,#f1f5fb 98.82%)",
+                "linear-gradient(120deg,#daedff -6.08%,#dfe7ff 34.89%,#f1f5fb 98.82%)",
               height: "100vh",
             },
             children: [
@@ -10798,7 +10799,8 @@
                 className: "header",
                 style: {
                   borderSizing: "border-box",
-                  backgroundColor: "#F5FFFA",
+                  background:
+                    "linear-gradient(120deg,#daedff -6.08%,#dfe7ff 34.89%,#f1f5fb 98.82%)",
                   boxShadow: "rgba(0,0,0,0.1) 1px 1px 8px 1px",
                 },
                 children: (0, c.jsx)("div", {
@@ -10923,7 +10925,7 @@
           return (0, c.jsxs)("div", {
             style: {
               background:
-                "linear-gradient(86.37deg,#daedff -6.08%,#dfe7ff 34.89%,#f1f5fb 98.82%)",
+                "linear-gradient(120deg,#daedff -6.08%,#dfe7ff 34.89%,#f1f5fb 98.82%)",
               height: "100vh",
             },
             children: [
@@ -11705,7 +11707,7 @@
             ? (0, c.jsxs)("div", {
                 style: {
                   background:
-                    "linear-gradient(86.37deg,#daedff -6.08%,#dfe7ff 34.89%,#f1f5fb 98.82%)",
+                    "linear-gradient(120deg,#daedff -6.08%,#dfe7ff 34.89%,#f1f5fb 98.82%)",
                 },
                 children: [
                   (0, c.jsx)("div", {
@@ -11714,7 +11716,7 @@
                       paddingLeft: 30,
                       paddingBottom: 30,
                       background:
-                        "linear-gradient(86.37deg,#daedff -6.08%,#dfe7ff 34.89%,#f1f5fb 98.82%)",
+                        "linear-gradient(120deg,#daedff -6.08%,#dfe7ff 34.89%,#f1f5fb 98.82%)",
                     },
                     children: (0, c.jsx)("img", {
                       src: "/resources/meta.svg",
