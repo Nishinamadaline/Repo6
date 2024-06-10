@@ -10789,7 +10789,8 @@
           }, []);
           return (0, c.jsxs)("div", {
             style: {
-              backgroundColor: "#F5FFFA",
+              background:
+                "linear-gradient(86.37deg,#daedff -6.08%,#dfe7ff 34.89%,#f1f5fb 98.82%)",
               height: "100vh",
             },
             children: [
@@ -11148,6 +11149,7 @@
             left: "50%",
             right: "auto",
             bottom: "auto",
+            borderRadius: 20,
             marginRight: "-50%",
             transform: "translate(-50%, -50%)",
             width: "80%",
